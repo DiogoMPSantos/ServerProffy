@@ -8,7 +8,7 @@ npm install or yarn
 # Criacao de Comandos Personalizados
 
 Adicionar ao arquivo package.json <br />
-"scripts": {
+"scripts": { <br />
     "start": "tsnd --transpile-only --ignore-watch node_modules --respawn src/server.ts", <br />
     "knex:migrate": "knex --knexfile knexfile.ts migrate:latest", <br />
     "knex:migrate:rollback": "knex --knexfile knexfile.ts migrate:rollback" <br />
