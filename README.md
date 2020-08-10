@@ -1,10 +1,6 @@
 # ServerProffy
 ApiRest for Proffy Aplication
 
-# Nextem
-
-Projeto para avaliação de vaga de Desenvolvedor JR
-
 # Instalar Dependências do Projeto
 
 npm install or yarn
